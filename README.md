@@ -1,2 +1,3 @@
-# Ruby-on-rails
- Mis codigos en ruby
+# Ruby
+
+Mis codigos en ruby
